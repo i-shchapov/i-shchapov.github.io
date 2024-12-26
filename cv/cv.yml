@@ -1,0 +1,183 @@
+# yaml-language-server: $schema=cvschema.json
+
+identity:
+    name: Ivan Shchapov
+    email: ivan.shchapov@ensae.fr
+    phone: +33781965079
+    website: www.ivanshchapov.com
+    
+    address:
+     - Route de Saclay
+     - 91120 Palaiseau, France
+     
+    profiles:
+     - network: GitHub
+       url: https://github.com/i-shchapov
+     - network: LinkedIn
+       url: https://www.linkedin.com/in/ivan-shchapov-3584711b0/
+    
+academic-positions:
+
+references: 
+    - name: Guido Ascari 
+      position: Head of Research
+      institution: Bank of Netherlands 
+      email: g.ascari@dnb.nl
+      url: https://sites.google.com/site/guidoascari/home
+      column: 1
+    - name: Andrea Ferrero 
+      position: Professor 
+      institution: University of Oxford 
+      email: andrea.ferrero@economics.ox.ac.uk
+      url: https://sites.google.com/site/andreapferrero/
+      column: 1
+    - name: David Bounie 
+      position: Professor 
+      institution: Institut Polytechnique de Paris 
+      email: david.bounie@telecom-paris.fr
+      url: https://www.telecom-paris.fr/david-bounie
+      column: 2
+    - name: Jean-Baptiste Michau 
+      position: Professor 
+      institution: Institut Polytechnique de Paris
+      email: jean-baptiste.michau@polytechnique.edu
+      url: https://sites.google.com/site/jbmichau/
+      column: 2
+
+education:
+    - institution: Institut Polytechnique de Paris 
+      location: Palaiseau, France
+      degrees:
+        - title: Ph.D. in Economics
+          dates: "2021 - 2026 (exp.)"
+    - institution: Johns Hopkins University 
+      location: Baltimore MD, USA
+      degrees:
+        - title: Visiting Doctoral Student
+          dates: "Spring 2025 (exp.)"      
+    - institution: University of Oxford
+      location: Oxford, England
+      degrees: 
+        - title: MPhil in Economics, Honours
+          dates: "2019 - 2021"
+    - institution: Moscow State Institute of International Relations
+      location: Moscow, Russia
+      degrees: 
+        - title: BA in Economics and Finance, Honours
+          dates: "2015 - 2019"
+
+JMP: 
+    - title: Monetary Tightening, Quantitative Easing, and Financial Stability
+      coauthors: Ivan Shchapov
+      cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927384
+      abstract: This paper analyses the implications of central bank balance sheet policies on financial stability in a framework with banks facing occasionally-binding leverage constraints and endogenous disruptions in financial intermediation. Whilst central bank balance sheet expansions are effective in stabilising the economy in a financial stress episode, they increase the frequency of such episodes and their duration. Balance sheet expansions induce financial intermediaries to take on more risk in normal times and slow their recapitalisation during a stress episode. In a tightening cycle, stabilisation properties of balance sheet policies are maintained but come at a significant cost to price stability.
+      urls:
+        - text: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927384
+        - text: Paper PDF
+          href: resources/cv.pdf
+
+publications:
+  - title: Productivity over the Life-Cycle and its Effects on the Interest Rate
+    coauthors: Momo Komatsu, David Murakami, and Ivan Shchapov 
+    status: Accepted at Japanese Economic Review 
+    journal: Japanese Economic Review
+    cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901180
+    urls:
+        - text: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901180
+
+working-papers: 
+    - title: CBDCs, Financial Inclusion, and Optimal Monetary Policy
+      coauthors: David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj 
+      status: Revision requested at Macroeconomic Dynamics
+      cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
+      urls:
+        - text: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
+    - title: It is Taxing to be Coherent
+      coauthors: David Murakami and Ivan Shchapov
+      status: 
+      cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+      urls:
+        - text: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+works-in-progress:
+    - title: Unconventional Policy in a Low Interest Rate Environment
+      coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
+    - title: Global Determinacy According to HANK
+      coauthors: David Murakami, Ivan Shchapov, and Yifan Zhang
+    - title: Commodity Currency Crashes, Risk Premia, and Monetary Policy
+      coauthors: Xuanheng Huang, David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj, and Yifang Zhang
+    - title: European Monetary Policy Shocks and Consumer Spending. Evidence from France 
+      coauthors: Martina Bianchi, David Bounie, and Ivan Shchapov
+    
+awards:
+    - name: Peter Sinclair 3rd Prize, MMF PhD Conference
+      date: "2024"
+    - name: Fondation du Risque Ph.D. scholarship
+      date: "2021 - 2026"
+    - name: Hill Foundation Scholarship
+      date: "2019 - 2021"
+    - name: MGIMO-University Academic Excellence scholarship
+      date: "2015 - 2019"
+
+teaching:
+    - institution: École Polytechnique, Stipendiary lecturer
+      dates: 2022-Present
+      role: Stipendiary lecturer
+      courses:
+        - title: Introduction to Economics
+          level: Undergraduate
+          convenor: Jean-Baptiste Michau
+        - title: Advanced Macroeconomics
+          level: Undergraduate
+          convenor: Giovanni Ricco
+        - title: Macroeconomic Growth
+          level: Graduate
+          convenor: Alessandro Riboni
+    - institution: University of Chicago (Centre in Paris), Teaching Assistant
+      dates: Spring 2025
+      role: Teaching assistant
+      courses:
+        - title: Macroeconomics
+          level: Undergraduate
+          convenor: Kotaro Yoshida
+        - title: Microeconomics
+          level: Undergraduate
+          convenor: Kotaro Yoshida
+    - institution: Télécom Paris, Teaching Assistant
+      dates: Autumn 2023
+      role: Teaching assistant
+      courses:
+        - title: Digital Markets and Platforms
+          level: Graduate
+          convenor: Michelangelo Rossi
+
+non_academic_appointments: 
+    - title: Vice-President, Treasurer
+      employer: Hulme Common Room, Brasenose College, University of Oxford
+      dates: 2021 - 2022 
+    - title: Intern
+      employer: KPMG, Tax & Legal, Transfer Pricing Group 
+      dates: Spring 2019
+    - title: Culture and Education Officer 
+      employer: UK HM FCDO, British Embassy in Moscow  
+      dates: 2017 - 2018
+    - title: Student Representative 
+      employer: Moscow State Institute of International Relations
+      dates: 2015 - 2019
+presentations:
+    - paper: Monetary Tightening, Quantitative Easing, and Financial Stability
+      talks:
+          - venue: JRC Ispra
+            location: Ispra, Italy
+            type: Conference
+            date: September 2024
+    - paper: It is Taxing to be Coherent
+      talks:
+          - venue: JRC Ispra
+            location: Ispra, Italy
+            type: Conference
+            date: September 2023
+
