@@ -1,0 +1,108 @@
+---
+title: "Curriculum Vitae"
+date: "12/26/2024"
+format:
+   html:
+        code-fold: true
+        echo: false
+        css: styles.css
+        other-links:
+        - icon: filetype-pdf
+          text: Download CV
+          href: resources/cv.pdf
+engine: julia
+
+callout-appearance: minimal
+---
+
+```{julia}
+#| echo: false
+include("common.jl");
+```
+
+
+## Education
+```{julia}
+#| output: asis
+for org in cvdata["education"]
+    println("**", org["institution"], "**", " | ", org["location"])
+    println()
+    for p in org["degrees"]
+        println(p["title"], " | ", p["dates"])
+    end
+    println()
+end
+```
+
+## References
+```{julia}
+#| output: asis
+for org in cvdata["references"]
+    println("**[", org["name"], "](", org["url"], ")** ", "(", (org["institution"]), ")" )
+    println()
+end
+```
+
+## Publications
+```{julia}
+#| output: asis
+map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["publications"]);
+```
+
+## Job market paper 
+```{julia}
+#| output: asis
+map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["JMP"]);
+```
+
+
+## Working Papers
+```{julia}
+#| output: asis
+map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["working-papers"]);
+```
+
+## Works in Progress
+```{julia}
+#| output: asis
+map(paper -> print_paper(paper, cvdata["presentations"], "caution"), cvdata["works-in-progress"]);
+```
+
+## Grants and Awards
+
+```{julia}
+#| output: asis
+for award in cvdata["awards"]
+    name = award["name"]
+    println(" - $name")
+    if notblank(award,"corecipients")
+        corecipients = award["corecipients"]
+        println("   - with ", corecipients)
+    end
+end
+```
+
+## Teaching Experience
+
+```{julia}
+#| output: asis
+for org in cvdata["teaching"]
+    println("**", org["institution"], "**", " | ", org["dates"])
+    println()
+    for p in org["courses"]
+        println(" - ", p["title"], ", ", p["level"], ". Convenor: ", p["convenor"])
+    end
+    println()
+end
+```
+
+## Non-academic appointments
+
+```{julia}
+#| output: asis
+for org in cvdata["non_academic_appointments"]
+    println("**", org["employer"], "**", ". ", org["title"], ", ", org["dates"])
+    println()
+end
+```
+

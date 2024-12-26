@@ -1,0 +1,50 @@
+project:
+  type: website
+  resources:
+    - CNAME  
+
+website:
+  site-url: https://www.ivanshchapov.com
+  title: "Ivan Shchapov"
+  twitter-card:
+    creator: "@ShchapovEcon"
+    description: "Ivan Shchapov, PhD candidate at Institut Polytechnique de Paris working on monetary macroeconomics and financial frictions"
+    image: resources/Headshot.jpg
+    card-style: summary
+  open-graph: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: CV.qmd
+        text: CV
+      - href: http://www.github.com/i-shchapov
+        text: Code
+    tools:
+      - icon: filetype-pdf
+        text: CV [PDF]
+        href: resources/cv.pdf
+      - icon: github
+        text: Github
+        href: https://github.com/i-shchapov   
+  back-to-top-navigation: true
+  google-analytics: U
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "My Job Market Paper draft is out"
+    type: primary
+    position: below-navbar
+  
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+
+
