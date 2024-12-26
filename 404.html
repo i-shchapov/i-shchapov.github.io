@@ -83,7 +83,7 @@ gtag('config', 'U', { 'anonymize_ip': true});
 <meta property="og:site_name" content="Ivan Shchapov">
 <meta name="twitter:title" content="Page Not Found – Ivan Shchapov">
 <meta name="twitter:description" content="Ivan Shchapov, PhD candidate at Institut Polytechnique de Paris working on monetary macroeconomics and financial frictions">
-<meta name="twitter:image" content="http://i-shchapov.github.io/resources/Headshot.jpg">
+<meta name="twitter:image" content="https://i-shchapov.github.io/resources/Headshot.jpg">
 <meta name="twitter:creator" content="@ShchapovEcon">
 <meta name="twitter:card" content="summary">
 </head>
@@ -377,7 +377,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("http:\/\/i-shchapov\.github\.io");
+      var filterRegex = new RegExp("https:\/\/i-shchapov\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
