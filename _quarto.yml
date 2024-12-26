@@ -8,7 +8,7 @@ website:
   title: "Ivan Shchapov"
   twitter-card:
     creator: "@ShchapovEcon"
-    description: "Ivan Shchapov, PhD candidate at Institut Polytechnique de Paris working on monetary macroeconomics and financial frictions"
+    description: "Ivan Shchapov, Ph.D. candidate at Institut Polytechnique de Paris working on monetary macroeconomics and financial frictions"
     image: resources/Headshot.jpg
     card-style: summary
   open-graph: true
@@ -19,8 +19,6 @@ website:
         text: Home
       - href: CV.qmd
         text: CV
-      - href: http://www.github.com/i-shchapov
-        text: Code
     tools:
       - icon: filetype-pdf
         text: CV [PDF]
