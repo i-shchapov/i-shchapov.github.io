@@ -8,9 +8,10 @@ format:
 engine: julia
 about:
   id: bio
-  template: solana
+  template: jolla
   image: resources/MainPhoto.jpeg
   image-alt: Ivan Shchapov
+  image-shape: round
   links:
     - icon: envelope-at
       text: Email

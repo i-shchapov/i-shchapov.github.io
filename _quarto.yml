@@ -31,7 +31,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "My Job Market Paper draft is out"
+    content: "I am on the Academic Job Market in November 2025"
     type: primary
     position: below-navbar
   
