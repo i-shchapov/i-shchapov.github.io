@@ -1,1 +1,1 @@
-Sitemap: https://www.ivanshchapov.com/sitemap.xml
+Sitemap: http://i-shchapov.github.io/sitemap.xml
