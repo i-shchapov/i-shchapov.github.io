@@ -137,15 +137,18 @@ teaching:
           level: Graduate
           convenor: Alessandro Riboni
     - institution: University of Chicago (Centre in Paris), Teaching Assistant
-      dates: Spring 2025
+      dates: Winter 2025 (exp.)
       role: Teaching assistant
       courses:
         - title: Macroeconomics
           level: Undergraduate
           convenor: Kotaro Yoshida
-        - title: Microeconomics
+        - title: Labour Economics
           level: Undergraduate
-          convenor: Kotaro Yoshida
+          convenor: Julio Elias
+        - title: Microeconomics 
+          level: Undergraduate
+          convenor: Min Sok Lee
     - institution: Télécom Paris, Teaching Assistant
       dates: Autumn 2023
       role: Teaching assistant
