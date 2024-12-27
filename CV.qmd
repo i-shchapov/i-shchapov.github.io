@@ -43,18 +43,18 @@ for org in cvdata["references"]
 end
 ```
 
-## Publications
-```{julia}
-#| output: asis
-map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["publications"]);
-```
-
 ## Job market paper 
 ```{julia}
 #| output: asis
 map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["JMP"]);
 ```
 
+
+## Publications
+```{julia}
+#| output: asis
+map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["publications"]);
+```
 
 ## Working Papers
 ```{julia}

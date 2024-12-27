@@ -91,6 +91,7 @@ working-papers:
     - title: CBDCs, Financial Inclusion, and Optimal Monetary Policy
       coauthors: David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj 
       status: Revision requested at Macroeconomic Dynamics
+      journal: Revision requested at Macroeconomic Dynamics
       cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
       urls:
         - text: SSRN
@@ -102,6 +103,8 @@ working-papers:
       urls:
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+        - text: Paper PDF
+          href: resources/It_is_taxing.pdf
 works-in-progress:
     - title: Unconventional Policy in a Low Interest Rate Environment
       coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
