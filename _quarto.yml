@@ -4,7 +4,7 @@ project:
     - CNAME  
 
 website:
-  site-url: https://i-shchapov.github.io
+  site-url: https://ivanshchapov.com
   title: "Ivan Shchapov"
   twitter-card:
     creator: "@ShchapovEcon"

@@ -83,9 +83,14 @@ publications:
     status: Accepted at Japanese Economic Review 
     journal: Japanese Economic Review
     cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901180
+    abstract: "Japan has faced rapid ageing, persistently low interest rates, sluggish growth, and deflation for decades. Concurrently, there has been a gradual convergence in productivity between young and elderly workers. This paper aims to explore the relationship between productivity, demographic shifts, and interest rates in Japan during the post-bubble era, using an overlapping generations two-agent New Keynesian (OTANK) DSGE model. The narrowing productivity gap between younger and older cohorts puts upward pressure on interest rates. Meanwhile, factors such as longer life expectancy and negative population growth rates exert downward pressure on interest rates. The latter effect dominates. A central bank that does not account for this when setting monetary policy may induce deflationary pressure in the economy. Important policy implications emerge: Enhancing worker productivity across workers' entire life-cycle and bridging the productivity gap between younger and older workers can help offset the decline in interest rates, and monetary policy ought to account for shifting demographics."
     urls:
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901180
+        - text: Paper PDF
+          href: resources/KMS24_main.pdf
+        - text: Online appendix
+          href: resources/KMS24_appendix.pdf
 
 working-papers: 
     - title: CBDCs, Financial Inclusion, and Optimal Monetary Policy
@@ -93,18 +98,22 @@ working-papers:
       status: Revision requested at Macroeconomic Dynamics
       journal: Revision requested at Macroeconomic Dynamics
       cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
+      abstract: This paper explores the interaction between monetary policy and financial inclusion with the introduction of a central bank digital currency (CBDC). Using a New-Keynesian two-agent framework, we show that CBDCs can enhance welfare for unbanked households by providing an interest-bearing savings tool that facilitates consumption smoothing in response to monetary policy shocks. However, higher CBDC rates, while beneficial to unbanked households, reduce welfare for banked households due to tax redistribution effects. A Ramsey optimal policy exercise demonstrates that a social planner would typically set the CBDC rate to maintain a constant spread relative to the policy rate to maximise welfare. These findings emphasise the importance of tailoring CBDC design to an economy’s level of financial inclusion.
       urls:
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
+        - text: Paper PDF
+          href: resourves/MSV22_main.pdf
     - title: It is Taxing to be Coherent
       coauthors: David Murakami and Ivan Shchapov
       status: 
       cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+      abstract: The presence of an occasionally binding constraint due to the effective lower bound (ELB) in New Keynesian models generally gives rise to multiple equilibria under active monetary policy. To restore uniqueness in the model with an active Taylor rule, we consider appropriate simple fiscal policy instruments. Without relaxing the assumptions of Ricardian equivalence, full information, and rational expectations, we show that appropriate fiscal targeting rules ensure that New Keynesian models subject to the ELB possess a unique solution.
       urls:
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
         - text: Paper PDF
-          href: resources/It_is_taxing.pdf
+          href: resources/MS23_main.pdf
 works-in-progress:
     - title: Unconventional Policy in a Low Interest Rate Environment
       coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
