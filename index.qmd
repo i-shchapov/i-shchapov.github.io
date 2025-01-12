@@ -40,7 +40,6 @@ include("common.jl");
 map(paper -> print_paper(paper, cvdata["presentations"], "note"), cvdata["JMP"]);
 ```
 
-
 ## Publications
 ```{julia}
 #| output: asis

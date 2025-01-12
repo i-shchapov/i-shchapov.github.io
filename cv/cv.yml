@@ -106,7 +106,7 @@ working-papers:
           href: resourves/MSV22_main.pdf
     - title: It is Taxing to be Coherent
       coauthors: David Murakami and Ivan Shchapov
-      status: 
+      journal: Revision requested at Journal of Economic Dynamics and Control
       cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
       abstract: The presence of an occasionally binding constraint due to the effective lower bound (ELB) in New Keynesian models generally gives rise to multiple equilibria under active monetary policy. To restore uniqueness in the model with an active Taylor rule, we consider appropriate simple fiscal policy instruments. Without relaxing the assumptions of Ricardian equivalence, full information, and rational expectations, we show that appropriate fiscal targeting rules ensure that New Keynesian models subject to the ELB possess a unique solution.
       urls:
