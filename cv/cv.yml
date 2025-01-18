@@ -69,7 +69,7 @@ education:
 JMP: 
     - title: Monetary Tightening, Quantitative Easing, and Financial Stability
       coauthors: Ivan Shchapov
-      cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927384
+      cv_url: https://ivanshchapov.com/resources/Shchapov2025.pdf
       abstract: This paper analyses the implications of central bank balance sheet policies on financial stability in a framework with banks facing occasionally-binding leverage constraints and endogenous disruptions in financial intermediation. Whilst central bank balance sheet expansions are effective in stabilising the economy in a financial stress episode, they increase the frequency of such episodes and their duration. Balance sheet expansions induce financial intermediaries to take on more risk in normal times and slow their recapitalisation during a stress episode. In a tightening cycle, stabilisation properties of balance sheet policies are maintained but come at a significant cost to price stability.
       urls:
         - text: SSRN
@@ -82,7 +82,7 @@ publications:
     coauthors: Momo Komatsu, David Murakami, and Ivan Shchapov 
     status: Accepted at Japanese Economic Review 
     journal: Japanese Economic Review
-    cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901180
+    cv_url: https://ivanshchapov.com/resources/KMS24_main.pdf
     abstract: "Japan has faced rapid ageing, persistently low interest rates, sluggish growth, and deflation for decades. Concurrently, there has been a gradual convergence in productivity between young and elderly workers. This paper aims to explore the relationship between productivity, demographic shifts, and interest rates in Japan during the post-bubble era, using an overlapping generations two-agent New Keynesian (OTANK) DSGE model. The narrowing productivity gap between younger and older cohorts puts upward pressure on interest rates. Meanwhile, factors such as longer life expectancy and negative population growth rates exert downward pressure on interest rates. The latter effect dominates. A central bank that does not account for this when setting monetary policy may induce deflationary pressure in the economy. Important policy implications emerge: Enhancing worker productivity across workers' entire life-cycle and bridging the productivity gap between younger and older workers can help offset the decline in interest rates, and monetary policy ought to account for shifting demographics."
     urls:
         - text: SSRN
@@ -93,6 +93,17 @@ publications:
           href: resources/KMS24_appendix.pdf
 
 working-papers: 
+    - title: It is Taxing to be Coherent
+      coauthors: David Murakami, Ivan Shchapov, and Yifan Zhang
+      status: Revision requested at Journal of Economic Dynamics and Control
+      journal: Revision requested at Journal of Economic Dynamics and Control
+      cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+      abstract: The presence of an occasionally binding constraint due to the effective lower bound (ELB) in New Keynesian models generally gives rise to multiple equilibria under active monetary policy. To restore uniqueness in the model with an active Taylor rule, we consider appropriate simple fiscal policy instruments. Without relaxing the assumptions of Ricardian equivalence, full information, and rational expectations, we show that appropriate fiscal targeting rules ensure that New Keynesian models subject to the ELB possess a unique solution.
+      urls:
+        - text: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+        - text: Paper PDF
+          href: resources/MurakamiShchapovZhang.pdf
     - title: CBDCs, Financial Inclusion, and Optimal Monetary Policy
       coauthors: David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj 
       status: Revision requested at Macroeconomic Dynamics
@@ -104,16 +115,6 @@ working-papers:
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
         - text: Paper PDF
           href: resourves/MSV22_main.pdf
-    - title: It is Taxing to be Coherent
-      coauthors: David Murakami and Ivan Shchapov
-      journal: Revision requested at Journal of Economic Dynamics and Control
-      cv_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
-      abstract: The presence of an occasionally binding constraint due to the effective lower bound (ELB) in New Keynesian models generally gives rise to multiple equilibria under active monetary policy. To restore uniqueness in the model with an active Taylor rule, we consider appropriate simple fiscal policy instruments. Without relaxing the assumptions of Ricardian equivalence, full information, and rational expectations, we show that appropriate fiscal targeting rules ensure that New Keynesian models subject to the ELB possess a unique solution.
-      urls:
-        - text: SSRN
-          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
-        - text: Paper PDF
-          href: resources/MS23_main.pdf
 works-in-progress:
     - title: Unconventional Policy in a Low Interest Rate Environment
       coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
@@ -136,7 +137,7 @@ awards:
 
 teaching:
     - institution: École Polytechnique, Stipendiary lecturer
-      dates: 2022-Present
+      dates: 2022 - Present
       role: Stipendiary lecturer
       courses:
         - title: Introduction to Economics
@@ -148,8 +149,8 @@ teaching:
         - title: Macroeconomic Growth
           level: Graduate
           convenor: Alessandro Riboni
-    - institution: University of Chicago (Centre in Paris), Teaching Assistant
-      dates: Winter 2025 (exp.)
+    - institution: University of Chicago (Centre in Paris), Stipendiary Lecturer
+      dates: Winter 2025
       role: Teaching assistant
       courses:
         - title: Macroeconomics
