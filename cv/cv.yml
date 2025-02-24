@@ -114,7 +114,7 @@ working-papers:
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
         - text: Paper PDF
-          href: resourves/MSV22_main.pdf
+          href: resources/MSV22_main.pdf
 works-in-progress:
     - title: Unconventional Policy in a Low Interest Rate Environment
       coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
