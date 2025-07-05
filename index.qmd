@@ -19,22 +19,22 @@ about:
 callout-appearance: minimal
 ---
 
+
 :::{#bio}
 
 I am a Ph.D. Candidate in Economics at Institut Polytechnique de Paris (CREST) and a Stipendiary Lecturer at École Polytechnique.
 
 My research focuses on monetary economics, fiscal policy, financial stability, and international macroeconomics.
 
-**I will be on the Academic Job Market in November 2025.**
+**I am on the Academic Job Market in November 2025.**
 
 :::
-
-
 
 ```{julia}
 #| echo: false
 include("common.jl");
 ```
+
 
 ## Job market paper 
 ```{julia}

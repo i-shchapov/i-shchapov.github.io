@@ -116,15 +116,21 @@ working-papers:
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102397
         - text: Paper PDF
           href: resources/MSV22_main.pdf
+    - title: Global Determinacy According to HANK
+      coauthors: David Murakami, Ivan Shchapov, and Yifan Zhang
+      urls: 
+        - text: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
+        - text: Paper PDF
+          href: resources/MurakamiShchapovZhang_HANK.pdf
+
 works-in-progress:
     - title: Unconventional Policy in a Low Interest Rate Environment
       coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
-    - title: Global Determinacy According to HANK
-      coauthors: David Murakami, Ivan Shchapov, and Yifan Zhang
-    - title: Commodity Currency Crashes, Risk Premia, and Monetary Policy
-      coauthors: Xuanheng Huang, David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj, and Yifang Zhang
+    # - title: Commodity Currency Crashes, Risk Premia, and Monetary Policy
+    # coauthors: Xuanheng Huang, David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj, and Yifang Zhang
     - title: European Monetary Policy Shocks and Consumer Spending. Evidence from France 
-      coauthors: Martina Bianchi, David Bounie, and Ivan Shchapov
+      coauthors: Martina Bianchi, David Bounie, Youssouf Camara, and Ivan Shchapov
     
 awards:
     - name: Peter Sinclair 3rd Prize, MMF PhD Conference
