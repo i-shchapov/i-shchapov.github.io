@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: "12/26/2024"
+date: "09/29/2025"
 format:
    html:
         code-fold: true
@@ -33,6 +33,7 @@ for org in cvdata["education"]
     println()
 end
 ```
+
 
 ## References
 ```{julia}

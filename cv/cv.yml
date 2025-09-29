@@ -25,18 +25,18 @@ references:
       email: g.ascari@dnb.nl
       url: https://sites.google.com/site/guidoascari/home
       column: 1
+    - name: Francesco Bianchi
+      position: Professor
+      institution: Johns Hopkins University
+      email: francesco.bianchi@jhu.edu
+      url: https://sites.google.com/view/francescobianchi/home
+      column: 2
     - name: Andrea Ferrero 
       position: Professor 
       institution: University of Oxford 
       email: andrea.ferrero@economics.ox.ac.uk
       url: https://sites.google.com/site/andreapferrero/
       column: 1
-    - name: David Bounie 
-      position: Professor 
-      institution: Institut Polytechnique de Paris 
-      email: david.bounie@telecom-paris.fr
-      url: https://www.telecom-paris.fr/david-bounie
-      column: 2
     - name: Jean-Baptiste Michau 
       position: Professor 
       institution: Institut Polytechnique de Paris
@@ -201,7 +201,7 @@ presentations:
             location: Ispra, Italy
             type: Conference
             date: September 2024
-    - paper: It is Taxing to be Coherent
+    - paper: Restoring Existence and Uniqueness at the Effective Lower Bound with Simple Fiscal Policy
       talks:
           - venue: JRC Ispra
             location: Ispra, Italy
