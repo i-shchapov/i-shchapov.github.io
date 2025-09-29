@@ -35,7 +35,6 @@ My research focuses on monetary economics, fiscal policy, financial stability, a
 include("common.jl");
 ```
 
-
 ## Job market paper 
 ```{julia}
 #| output: asis

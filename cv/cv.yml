@@ -54,7 +54,7 @@ education:
       location: Baltimore MD, USA
       degrees:
         - title: Visiting Doctoral Student
-          dates: "Spring 2025 (exp.)"      
+          dates: "March - June 2025"      
     - institution: University of Oxford
       location: Oxford, England
       degrees: 
@@ -66,12 +66,11 @@ education:
         - title: BA in Economics and Finance, Honours
           dates: "2015 - 2019"
 
-
 JMP: 
     - title: Monetary Tightening, Quantitative Easing, and Financial Stability
       coauthors: Ivan Shchapov
       cv_url: https://ivanshchapov.com/resources/Shchapov2025.pdf
-      abstract: This paper analyses how central bank balance sheet policies affect financial stability in a framework with endogenous disruptions in financial intermediation. Central bank balance sheet expansions increase the frequency of financial stress episodes and their duration over the business cycle by inducing financial intermediaries to take on more risk in normal times and slowing their recapitalisation during a stress episode. In a tightening cycle, balance sheet expansions come at a significant cost to price stability. The optimal monetary policy mix balances the welfare costs of inflation and financial stress against the efficiency costs of balance sheet interventions.
+      abstract: This paper analyses the effects of central bank balance sheet policies on financial and price stability in a framework with endogenous disruptions in financial intermediation. Central bank balance sheet expansions increase the frequency of financial stress episodes and their duration by inducing financial intermediaries to take on more risk in normal times and slowing their recapitalisation during a stress episode. Rapid monetary policy tightening induces financial stress which can be mitigated by central bank balance sheet expansions at significant cost to price stability. The optimal monetary policy mix balances welfare costs of inflation and financial stess, and efficiency costs of balance sheet expansions. Optimal policy leans towards prevention of financial stress via accommodative conventional policy and limited balance sheet interventions.
       urls:
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927384
@@ -94,7 +93,7 @@ publications:
           href: resources/KMS24_appendix.pdf
 
 working-papers: 
-    - title: It is Taxing to be Coherent
+    - title: Restoring Existence and Uniqueness at the Effective Lower Bound with Simple Fiscal Policy
       coauthors: David Murakami, Ivan Shchapov, and Yifan Zhang
       status: Revision requested at Journal of Economic Dynamics and Control
       journal: Revision requested at Journal of Economic Dynamics and Control
@@ -118,6 +117,7 @@ working-papers:
           href: resources/MSV22_main.pdf
     - title: Global Determinacy According to HANK
       coauthors: David Murakami, Ivan Shchapov, and Yifan Zhang
+      abstract: The presence of an occasionally binding constraint from the effective lower bound (ELB) in New Keynesian models often leads to multiple or no equilibria. The problem stems from a strong feedback loop between expectations (of inflation and output) and current outcomes at the ELB. We show that simple fiscal policy rules can introduce additional stabilising forces that dampen this loop, thereby ensuring the existence and uniqueness of an equilibrium.
       urls: 
         - text: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4326398
@@ -129,8 +129,12 @@ works-in-progress:
       coauthors: Guido Ascari, David Murakami, Ivan Shchapov, and Francesco Zanetti
     # - title: Commodity Currency Crashes, Risk Premia, and Monetary Policy
     # coauthors: Xuanheng Huang, David Murakami, Ivan Shchapov, Ganesh Viswanath-Natraj, and Yifang Zhang
-    - title: European Monetary Policy Shocks and Consumer Spending. Evidence from France 
+    - title: "European Monetary Policy Shocks and Consumer Spending: Evidence from France"
       coauthors: Martina Bianchi, David Bounie, Youssouf Camara, and Ivan Shchapov
+    - title: The Fiscal Theory of the Price Level in a Currency Union
+      coauthors: Momo Komatsu, David Murakami, and Ivan Shchapov
+    - title: "Fiscal Shocks: LLM strikes back"
+      coauthors: Ruben Fernandez-Fuertes, David Murakami, and Ivan Shchapov
     
 awards:
     - name: Peter Sinclair 3rd Prize, MMF PhD Conference
