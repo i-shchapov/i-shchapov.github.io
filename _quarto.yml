@@ -1,7 +1,8 @@
 project:
   type: website
   resources:
-    - CNAME  
+    - CNAME
+    - dashboard/  
 
 website:
   site-url: http://i-shchapov.github.io
@@ -19,6 +20,8 @@ website:
         text: Home
       - href: CV.qmd
         text: CV
+      - href: dashboard/phd_job_market_dashboard_ivan.html
+        text: Job Market Dashboard
     tools:
       - icon: filetype-pdf
         text: CV [PDF]

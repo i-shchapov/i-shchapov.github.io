@@ -1,0 +1,17 @@
+---
+title: "Job Market Dashboard"
+format:
+   html:
+        code-fold: true
+        echo: false
+---
+
+<script>
+window.location.replace("dashboard/phd_job_market_dashboard_ivan.html");
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="0; url=dashboard/phd_job_market_dashboard_ivan.html">
+</noscript>
+
+Redirecting to [Job Market Dashboard](dashboard/phd_job_market_dashboard_ivan.html)...
