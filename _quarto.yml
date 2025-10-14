@@ -30,7 +30,7 @@ website:
         text: Github
         href: https://github.com/i-shchapov   
   back-to-top-navigation: true
-  google-analytics: U
+  google-analytics: "G-VL29ZRQXB3"
   announcement:
     icon: info-circle
     dismissable: true
