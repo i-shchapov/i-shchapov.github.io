@@ -34,7 +34,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "I am on the Academic Job Market in November 2025"
+    content: "I am on the Academic Job Market in November 2025. My personal email address is i.shchapov@gmail.com"
     type: primary
     position: below-navbar
   
